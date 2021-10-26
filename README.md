@@ -14,9 +14,8 @@ moro@tuspe.com
 
 ## Työskentely
 
-Tuspella ei ole virallista toimistoa, joten kaikki projektit toteutetaan etätyöskentelynä.
-
-Muistathan huolehtia työergonomiasta ja työn tauottamisesta.
+Tuspella ei ole virallista toimistoa, joten kaikki projektit toteutetaan etätyöskentelynä.  
+Muistathan huolehtia työergonomiasta ja työn tauottamisesta itsenäisesti.
 
 ### Työajat
 
