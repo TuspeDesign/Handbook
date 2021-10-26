@@ -89,7 +89,9 @@ alias gitit='git clone --single-branch --branch main'
 
 Tuspen sisäiset keskustelut, asiakastiedot ja salausavaimet ovat luottamuksellisia eikä niitä saa jakaa ulkopuolisille.
 
-Tuspe omistaa kaikki työntekijöiden tekemien koodien tekijänoikeudet ja saa käyttää koodeja projekteissa ilman erillistä sopimusta ellei projektin alussa ole muuta sovittu. Työntekijällä on oikeus käyttää tekemäänsä koodia muissa projekteissa, mutta ei saa luoda samalla koodilla kilpailevia tuotteita ilman Tuspen lupaa.
+Tuspe omistaa kaikki työntekijöiden asiakkaille tai Tuspelle tekemien koodien tekijänoikeudet ja saa käyttää koodeja projekteissa ilman erillistä sopimusta ellei projektin alussa ole muuta sovittu. Työntekijällä on oikeus käyttää tekemäänsä koodia muissa projekteissa, mutta ei saa luoda samalla koodilla kilpailevia tuotteita ilman Tuspen lupaa.
+
+Ei asiakkaille tehdyt harjoitustyöt ovat julkista kaikkien käytössä olevaa koodia.
 
 ## Alihankinta
 
