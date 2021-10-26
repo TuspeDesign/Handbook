@@ -42,7 +42,7 @@ Kokoukset hoidetaan Google Meets-palvelussa.
 - Back: [PHP](https://www.php.net/), [ProcessWire CMS](https://processwire.com/), [nodejs](https://nodejs.org/en/)
 - SQL: [MariaDB](https://mariadb.org/)
 
-### Tarvittavat ohjelmsitot
+### Tarvittavat ohjelmsitot / verkkosivustot
 - [Visual Code Studio](https://code.visualstudio.com/)
 - [nodejs](https://nodejs.org/en/)
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -53,9 +53,12 @@ Kokoukset hoidetaan Google Meets-palvelussa.
 - [Github Desktop](https://desktop.github.com/)
 
 ### Suositeltavat lisäosat
-- Code: [Code Time](https://github.com/swdotcom/swdc-vscode)
-- Selain: HTML Validator - [Chrome](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/html-validator/)
-- axe DevTools - Web Accessibility Testing - [Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+- [Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace)
+- [Code Time](https://github.com/swdotcom/swdc-vscode)
+- [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- HTML Validator - [Chrome](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/html-validator/)
+- axe DevTools - Web Accessibility Testing - [Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/axe-devtools/)
 
 ### Git / Github
 
