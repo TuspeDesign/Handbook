@@ -72,6 +72,7 @@ Muista työntää uudet koodit eteenpäin aina kun olet tehnyt isompia muutoksia
 
 On erittäin tärkeää kommunikoida muiden tekijöiden kanssa ennen polkujen yhdistämistä.
 
+- [Versionhallinta: Git ja Github](https://tkt-lapio.github.io/git/)
 - [Tuspe Design](https://github.com/TuspeDesign)
 - [Timo Anttila](https://github.com/timoanttila?tab=repositories)
 
