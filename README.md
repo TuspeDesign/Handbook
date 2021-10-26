@@ -39,7 +39,7 @@ Kokoukset hoidetaan Google Meets-palvelussa.
 
 ### Näillä tehdään hommia
 - Front: HTML, CSS, JavaScript, [SvelteKit](https://kit.svelte.dev/), [Nuxt](https://nuxtjs.org/)
-- Back: [PHP](https://www.php.net/), [ProcessWire CMS](https://processwire.com/)
+- Back: [PHP](https://www.php.net/), [ProcessWire CMS](https://processwire.com/), [nodejs](https://nodejs.org/en/)
 - SQL: [MariaDB](https://mariadb.org/)
 
 ### Tarvittavat ohjelmsitot
