@@ -23,13 +23,9 @@ Yrittäjä on töissä lähes aina valveilla ollessaan, mutta harjoittelijat ja 
 
 Suositeltavaa olisi aloittaa työt viimeistään noin 9 aikaan aamulla tai ilmoittaa aloittavansa myöhemmin.
 
-Tuspe noudattaa noin 8 tunnin työaikoja, mutta tästä ajasta jokainen on itse vastuussa käyttämästään ajasta sen mukaan miten parhaaksi näkee tavoitteet ja aikataulut huomioiden. Työmaalla on oltava vähintään työsopimuksessa merkityn ajan verran.
+Vaikka työajat ovat joustavia, tulee palavereissa olla aina ajoissa.
 
-Vaikka työajat ovat joustavia, tulee kokouksissa olla aina ajoissa.
-
-Lisää työajan seurannasta kohdassa Työajan seuranta.
-
-Projekteihin käytetyt tunnit merkataan kuitenkin ajanaseurantajärjestelmään päivittäin.
+Projektien työajan seurantaan käytetään [Clockify](https://clockify.me/)-palvelua.
 
 ## Uusi työntekijä
 
