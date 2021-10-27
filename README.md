@@ -58,6 +58,7 @@ Kokoukset hoidetaan Google Meets-palvelussa.
 - [Code Time](https://github.com/swdotcom/swdc-vscode)
 - HTML Validator - [Chrome](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/html-validator/)
 - axe DevTools - Web Accessibility Testing - [Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/axe-devtools/)
+- CORS - [Chrome](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) / [Chrome](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/cors-everywhere/)
 
 ### Tutustumisen arvoista
 - [Code Extension Marketplace](https://code.visualstudio.com/docs/editor/extension-marketplace)
