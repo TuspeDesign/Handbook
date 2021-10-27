@@ -35,7 +35,7 @@ Koska töitä voi tehdä missä ja milloin tahansa, ei aloittamiseen tarvita kui
 
 Tuspen koodit / projektit löytyvät Githubista ja sinne päivitetään kaikki uudet koodit, joten tunnus palveluun on pakollinen. Sen lisäksi saatamme jakaa tiedostoja Google Drivellä, joten Googlen tunnus olisi suotava. Oikeuksia yksityisiin projekteihin saa tarvittaessa.
 
-Kokoukset hoidetaan Google Meets-palvelussa.
+Kokoukset hoidetaan [Google Meet](https://meet.google.com/)-palvelussa.
 
 ### Näillä tehdään hommia
 - Front: HTML, CSS, JavaScript, [SvelteKit](https://kit.svelte.dev/), [Nuxt](https://nuxtjs.org/)
