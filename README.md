@@ -55,7 +55,7 @@ Kokoukset hoidetaan [Google Meet](https://meet.google.com/)-palvelussa.
 ### Suositeltavat lisäosat
 - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-- [Code Time](https://github.com/swdotcom/swdc-vscode)
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) + [Remote - SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
 - HTML Validator - [Chrome](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/html-validator/)
 - axe DevTools - Web Accessibility Testing - [Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/axe-devtools/)
 - CORS - [Chrome](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) / [Chrome](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino) / [Firefox](https://addons.mozilla.org/fi/firefox/addon/cors-everywhere/)
