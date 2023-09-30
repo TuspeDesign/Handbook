@@ -9,7 +9,7 @@ Yhteydenotot:
 Timo Anttila  
 Toimitusjohtaja
 
-040 774 6121  
++358 45 311 1786 (WhatsApp)  
 moro@tuspe.com
 
 ## Työskentely
@@ -21,11 +21,11 @@ Muistathan huolehtia työergonomiasta ja työn tauottamisesta itsenäisesti.
 
 Yrittäjä on töissä lähes aina valveilla ollessaan, mutta harjoittelijat ja projektikohtaiset työntekijät noudattavat noin 7-8 tunnin työaikoja. Jokainen on itse vastuussa käyttämästään ajasta sen mukaan miten parhaaksi näkee tavoitteet ja aikataulut huomioiden. Töitä tulisi kuukausittain tehdä vähintään työ- tai harjoittelusopimuksessa merkityn ajan verran.
 
-Suositeltavaa olisi aloittaa työt viimeistään noin 9 aikaan aamulla tai ilmoittaa aloittavansa myöhemmin.
+Työharjoittelijoiden työpäivä alkaa viimeistään kello yhdeksän (9), mutta olisi suositeltavaa olla tavoitettavissa jo kahdeksalta (8).
 
 Vaikka työajat ovat joustavia, tulee palavereissa olla aina ajoissa.
 
-Projektien työajan seurantaan käytetään [Clockify](https://clockify.me/)-palvelua.
+Käytämme projektien ja työntekijöiden seurantaan [Clockify](https://clockify.me/)-palvelua.
 
 ## Uusi työntekijä
 
